@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quick Maps</string>
+    <string name="project_map"><b><font size="80">Quick Maps</font></b></string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_places"><b><font size="40">Search for places:</font></b></string>
+    <string name="choose_place"><b><font size="40">Choose Place:</font></b></string>
+    <string name="type_a_place"><b><font size="21">  Type a place:</font></b></string>
+    <string name="name"><b><font size="40">Name</font></b></string>
+    <string name="address"><b><font size="40">Address</font></b></string>
+    <string name="enable_location"><b><font size="40">Enable Location</font></b></string>
+</resources>

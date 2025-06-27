@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FinalPro" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/quantum_bluegrey400</item>
+        <item name="colorPrimaryDark">@color/quantum_bluegrey400</item>
+        <item name="colorAccent">@color/quantum_bluegrey400</item>
+    </style>
+</resources>
