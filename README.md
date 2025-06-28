@@ -9,7 +9,7 @@ The APIs used were:
 - Places API (Provides information about specific places)
 - Directions API (Gives directions between two places)
 
-All these APIs come from Google. If you want to use my code you will need to get an API key from [google](https://developers.google.com/maps/documentation/javascript/get-api-key). YOu will then need to take this key and put it in the code. 
+All these APIs come from Google. If you want to use my code you will need to get an API key from [google](https://developers.google.com/maps/documentation/javascript/get-api-key). You will then need to take this key and put it in the code. 
 
 ## Pictures
 ![](pic5.png)
