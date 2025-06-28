@@ -12,11 +12,11 @@ The APIs used were:
 All these APIs come from Google. If you want to use my code you will need to get an API key from [google](https://developers.google.com/maps/documentation/javascript/get-api-key). YOu will then need to take this key and put it in the code. 
 
 ## Pictures
-![](pic4.png)
+![](pic5.png)
 
 This shows that the project requests the users permissions. 
 
-![](pic5.png)
+![](pic6.png)
 
 The application allows the user to search for places. It has premade searchs like, Fire Station, Hospital, etc. that the user can click on. Once clicked on the user will see the map and can then click on points. Clicking a point provides basic information and allows the users to plot a route to it.
 
