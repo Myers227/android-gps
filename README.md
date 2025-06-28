@@ -13,9 +13,11 @@ All these APIs come from Google. If you want to use my code you will need to get
 
 ## Pictures
 ![](pic4.png)
+
 This shows that the project requests the users permissions. 
 
 ![](pic5.png)
+
 The application allows the user to search for places. It has premade searchs like, Fire Station, Hospital, etc. that the user can click on. Once clicked on the user will see the map and can then click on points. Clicking a point provides basic information and allows the users to plot a route to it.
 
 ## Known Bugs
